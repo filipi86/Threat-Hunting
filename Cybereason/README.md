@@ -4,9 +4,7 @@
 
 
                                       Filipi Pires
-                            Researcher and Cyber Security Specialist
-                                  filipi86@hotmail.com
-
+                            Security Researcher and Cyber Security Specialist
 
 
 The purpose of these documents, it was to execute several efficiency and detection tests in some endpoint solutions, this document brings the result of the defensive security analysis with an offensive mindset performed in the execution of 185 different Malwares in our environment. 
