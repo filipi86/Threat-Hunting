@@ -1,4 +1,4 @@
-# Security Research Reports*
+# Security Research Reports
 
 
                                                 Filipi Pires
