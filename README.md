@@ -8,4 +8,4 @@ Regarding the test performed, the first objective it was to simulate targeted at
 
 With the final product, the front responsible for the product will have an instrument capable of guiding a process of mitigation and / or correction, as well as optimized improvement, based on the criticality of risks.
 
-![GitHub_Reports](https://user-images.githubusercontent.com/31785433/102788295-2bd2a780-4381-11eb-80a6-fb714b043f55.JPG) 
+<center>![GitHub_Reports](https://user-images.githubusercontent.com/31785433/102788295-2bd2a780-4381-11eb-80a6-fb714b043f55.JPG)</center>
